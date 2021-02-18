@@ -42,6 +42,12 @@ button {
     padding: 10px;
     line-height: 30px;
 }
+h2 {
+    text-decoration:underline;
+}
+h3 {
+    text-decoration:bold;
+}
 
 #navbar {
     background-color:rgb(62, 145, 201);
